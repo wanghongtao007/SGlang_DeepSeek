@@ -39,7 +39,7 @@ DeepSeek V3模型下载，https://huggingface.co/deepseek-ai/：
 
 为了进行技术验证节省资源，本文选择deepseek-ai/DeepSeek-R1-Distill-Qwen-7B 蒸馏模型进行测试。该蒸馏模型在计算资源的需求上得到了优化，既能保证性能，又能适应现有硬件的限制。当然，如果条件许可，建议采用deepseek-ai/DeepSeek-R1-Distill-Qwen-32B甚至满血模型，如下图：
 
-![image-20250303151727161](./image-20250303151727161.png)
+![image-20250303151727161](./assets/image-20250303151727161.png)
 
 ------
 
